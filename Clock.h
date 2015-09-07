@@ -12,6 +12,7 @@ typedef struct waktu
     second SS;
 }clock;
 
+
 bool isvalid(int HH, int MM, int SS);
 clock MakeClock(int HH, int MM, int SS);
 int GetHour(clock c);
