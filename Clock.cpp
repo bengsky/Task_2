@@ -58,4 +58,5 @@ clock AddClock(clock c1,clock c2){
 }
 void PrintClock(clock c){
     cout<<"("<<c.HH<<":"<<c.MM<<":"<<c.SS<<")";
+    
 }
