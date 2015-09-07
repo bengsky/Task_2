@@ -10,6 +10,7 @@ int main()
     c1= MakeClock(2,30,4);
     c2= MakeClock(6,0,0);
     c3= MakeClock(1,62,30);
+    
 
     PrintClock(c1);
     PrintClock(c2);
